@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: insurance-client
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: bahota
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_162
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/insurance-client
+Created-By: Maven Integration for Eclipse
+
